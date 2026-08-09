@@ -1,0 +1,2 @@
+aws_region   = "us-east-1"
+okta_org_url = "https://yourcompany.okta.com"

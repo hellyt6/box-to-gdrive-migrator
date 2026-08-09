@@ -1,0 +1,10 @@
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/terraform.tfvars
+terraform/*.tfplan
+build/
+*.pyc
+__pycache__/
+*.env
+service-account.json
